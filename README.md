@@ -36,6 +36,33 @@ or all
     git push -u origin main
 
 
+# Push an existing repository from the command line
+### Add Origin
+
+    git remote add origin https://github.com/<username>/<repo-name>.git
+
+### Git Set Branch
+
+    git branch -M main
+
+### Git Branch wise Push
+
+    git push -u origin main
+
+
+
+
+## Back Date Commit 
+
+    git commit --date="2022-08-16 20:34:02" -m "Changes"
+
+
+
+
+
+
+
+
 ##  Contributors 
 <a  href="https://github.com/wapborhan/git-commands/graphs/contributors">
 <img  src="https://contrib.rocks/image?repo=wapborhan/git-commands"  />

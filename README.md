@@ -1,11 +1,11 @@
-
 <h1  align="center">Git Command</h1>
 
+# Create a new repository on the command line
 
-#  Create a new repository on the command line
-
-    
-
+<br/> 
+<br/> 
+<br/> 
+<br/>
 
 ### Git Initialized
 
@@ -15,7 +15,7 @@
 
     git add README.md
 
-or all 
+or all
 
     git add .
 
@@ -35,8 +35,15 @@ or all
 
     git push -u origin main
 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/> 
+<br/>
 
 # Push an existing repository from the command line
+
 ### Add Origin
 
     git remote add origin https://github.com/<username>/<repo-name>.git
@@ -49,21 +56,22 @@ or all
 
     git push -u origin main
 
+<br/> 
+<br/> 
+<br/> 
+<br/>
 
-
-
-## Back Date Commit 
+## Back Date Commit
 
     git commit --date="2022-08-16 20:34:02" -m "Changes"
 
+<br/> 
+<br/> 
+<br/> 
+<br/>
 
+## Contributors
 
-
-
-
-
-
-##  Contributors 
 <a  href="https://github.com/wapborhan/git-commands/graphs/contributors">
 <img  src="https://contrib.rocks/image?repo=wapborhan/git-commands"  />
 </a>

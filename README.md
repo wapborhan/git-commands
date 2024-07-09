@@ -4,25 +4,36 @@
 
 #  Create a new repository on the command line
 
+    
+
+
 ### Git Initialized
-**`git init`**
+
+    git init
 
 ### Add To Git
-**`git add README.md`**
+
+    git add README.md
+
 or all 
-**`git add .`**
+
+    git add .
 
 ### Git Commit
-**`git commit -m "first commit"`**
+
+    git commit -m "first commit"
 
 ### Git Set Branch
-**`git branch -M main`**
+
+    git branch -M main
 
 ### Git Add Origion
-**`git remote add origin https://github.com/wapborhan/wapborhan-next-jul-24.git`**
+
+    git remote add origin https://github.com/<username>/<repo-name>.git
 
 ### Git Branch wise Push
-**`git push -u origin main`**
+
+    git push -u origin main
 
 
 ##  Contributors 

@@ -11,13 +11,19 @@
 
     git init
 
+### Git Status
+
+    git status
+
 ### Add To Git
 
-    git add README.md
+    git add <Your-file.name>
 
 or all
 
     git add .
+
+    git add --all
 
 ### Git Commit
 
@@ -64,6 +70,50 @@ or all
 ## Back Date Commit
 
     git commit --date="2022-08-16 20:34:02" -m "Changes"
+
+## Commit Log Check
+
+    git log
+
+or one line
+
+    git log --oneline
+
+## Back to Prev Commit
+
+    git checkout <commit-id>
+
+## Create Branch name: working
+
+    git branch working
+
+## Create Branch : "production" with Checkout
+
+    git checkout -b production
+
+## Branch Switch to "production"
+
+    git checkout production
+
+## Check Branch List
+
+    git branch
+
+## Delete Branch
+
+    git branch -D <branch-name>
+
+## Merge Branch
+
+    git merge <branch-name>
+
+## Compare Commit
+
+    git diff <frist-commit-id> <second-commit-id>
+
+### Pull from github
+
+    git pull origin main
 
 <br/> 
 <br/> 

@@ -29,6 +29,10 @@ or all
 
     git commit -m "first commit"
 
+## Git Older Date Commit
+
+    git commit --amend --date="YYYY-MM-DD HH:MM:SS" -m "Your commit message here"
+
 ### Git Set Branch
 
     git branch -M main
@@ -110,6 +114,8 @@ or one line
 ## Compare Commit
 
     git diff <frist-commit-id> <second-commit-id>
+
+
 
 ### Pull from github
 
